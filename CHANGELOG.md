@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/phucnguyen035/semantic-release-demo-2/compare/v1.0.1...v1.1.0) (2023-11-22)
+
+
+### Features
+
+* remove error endpoint ([ca36c0f](https://github.com/phucnguyen035/semantic-release-demo-2/commit/ca36c0f3af97128380688d33fe1e058b8df899cd))
+
 ## [1.0.1](https://github.com/phucnguyen035/semantic-release-demo-2/compare/v1.0.0...v1.0.1) (2023-11-22)
 
 
