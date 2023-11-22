@@ -10,7 +10,7 @@ fastify.get("/", async () => {
 });
 
 fastify.get("/bye", async () => {
-  return { bye: "world" };
+  return { bye: "world 2" };
 });
 
 // Run the server!
