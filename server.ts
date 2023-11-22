@@ -5,15 +5,11 @@ const fastify = Fastify({
 });
 
 fastify.get("/hello", async () => {
-  return { hello: "world 2" };
+  return { hello: "world 3" };
 });
 
 fastify.get("/bye", async () => {
-  return { bye: "world 2" };
-});
-
-fastify.get("/error", async () => {
-  throw new Error("something went wrong");
+  return { bye: "world 3" };
 });
 
 try {
