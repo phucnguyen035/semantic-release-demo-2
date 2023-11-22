@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/phucnguyen035/semantic-release-demo-2/compare/v1.0.0...v1.0.1) (2023-11-22)
+
+
+### Bug Fixes
+
+* path for hello ([72f88ad](https://github.com/phucnguyen035/semantic-release-demo-2/commit/72f88ad5684207e724adcb5c091eb4802b301e02))
+
 # 1.0.0 (2023-11-22)
 
 
