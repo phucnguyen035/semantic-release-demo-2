@@ -16,6 +16,8 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
+    "@tsconfig/bun": "^1.0.1",
+    "bun-types": "^1.0.13",
     "semantic-release": "^22.0.8"
   },
   "dependencies": {
