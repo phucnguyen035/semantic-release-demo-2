@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/phucnguyen035/semantic-release/compare/v1.3.0...v1.4.0) (2023-11-22)
+
+
+### Features
+
+* version 3 ([ecf0283](https://github.com/phucnguyen035/semantic-release/commit/ecf0283f9846f9d9ceed5370a307333eb4992c72))
+
 # [1.3.0](https://github.com/phucnguyen035/semantic-release/compare/v1.2.0...v1.3.0) (2023-11-22)
 
 
