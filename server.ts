@@ -12,6 +12,10 @@ fastify.get("/bye", async () => {
   return { bye: "world 2" };
 });
 
+fastify.get("/error", async () => {
+  throw new Error("something went wrong");
+});
+
 try {
   await fastify.listen({ port: 3000 });
 } catch (err) {
