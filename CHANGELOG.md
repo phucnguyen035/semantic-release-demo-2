@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/phucnguyen035/semantic-release-demo-2/compare/v1.1.0...v2.0.0) (2023-11-22)
+
+
+### Features
+
+* add endpoint 4 ([ab3de51](https://github.com/phucnguyen035/semantic-release-demo-2/commit/ab3de517979348a4b38285ff4fb121f618b67db6))
+
+
+### BREAKING CHANGES
+
+* just testing, nothing to see here
+
 # [1.1.0](https://github.com/phucnguyen035/semantic-release-demo-2/compare/v1.0.1...v1.1.0) (2023-11-22)
 
 
