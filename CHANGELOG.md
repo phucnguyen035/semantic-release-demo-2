@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/phucnguyen035/semantic-release/compare/v1.2.0...v1.3.0) (2023-11-22)
+
+
+### Features
+
+* add bye world enpoint ([46d70bb](https://github.com/phucnguyen035/semantic-release/commit/46d70bb3adcbf31eb3ff3fa9c092ef3450ead552))
+
 # [1.2.0](https://github.com/phucnguyen035/semantic-release/compare/v1.1.0...v1.2.0) (2023-11-22)
 
 
